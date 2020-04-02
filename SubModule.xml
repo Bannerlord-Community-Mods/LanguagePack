@@ -1,0 +1,20 @@
+<Module>
+     <Name value="Language Pack"/>
+     <Id value="LanguagePack"/>
+     <Version value="v1.0.0"/>
+     <SingleplayerModule value="true"/>
+     <MultiplayerModule value="false"/>
+     <DependedModules/>
+     <SubModules>
+         <SubModule>
+             <Name value="LanguagePack"/>
+             <DLLName value="../../Modules/LanguagePack/bin/LanguagePack.dll"/>
+             <SubModuleClassType value="LanguagePack.SubModule"/>
+             <Tags>
+                 <Tag key="DedicatedServerType" value="none" />
+                 <Tag key="IsNoRenderModeElement" value="false" />
+             </Tags>
+         </SubModule>
+     </SubModules>
+     <Xmls/>
+ </Module>
