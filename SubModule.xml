@@ -8,7 +8,7 @@
      <SubModules>
          <SubModule>
              <Name value="LanguagePack"/>
-             <DLLName value="../../Modules/LanguagePack/bin/LanguagePack.dll"/>
+             <DLLName value="LanguagePack.dll"/>
              <SubModuleClassType value="LanguagePack.SubModule"/>
              <Tags>
                  <Tag key="DedicatedServerType" value="none" />
