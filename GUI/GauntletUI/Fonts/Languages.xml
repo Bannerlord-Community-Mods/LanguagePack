@@ -46,6 +46,15 @@
   
   <!-- German -->
   <Language id="German" DefaultFont="FiraSansExtraCondensed-Regular"/>
+  
+      <!-- Español -->
+  <Language id="Español" DefaultFont="Galahad">
+    <Map From="FiraSansExtraCondensed-Light" To="FiraSansExtraCondensed-Light"/>
+    <Map From="FiraSansExtraCondensed-Medium" To="FiraSansExtraCondensed-Medium"/>
+    <Map From="FiraSansExtraCondensed-Regular" To="FiraSansExtraCondensed-Regular"/>
+    <Map From="Galahad" To="Galahad"/>
+    <Map From="Galahad_Numbers_Bold" To="Galahad_Numbers_Bold"/>
+  </Language>
 
   <!-- Add your Language here -->
   <!-- <Language id="language_id" DefaultFont="FiraSansExtraCondensed-Regular"/> -->
